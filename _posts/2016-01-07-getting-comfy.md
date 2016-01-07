@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: 'nothing to see here! -_-'
-datePublished: '2016-01-07T13:30:11.946Z'
-dateModified: '2016-01-07T13:29:59.298Z'
+datePublished: '2016-01-07T16:55:17.252Z'
+dateModified: '2016-01-07T16:55:06.334Z'
 title: getting comfy
 author: []
 authors: []
