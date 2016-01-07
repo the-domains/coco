@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[coco]]></title>
         <description><![CDATA[coco]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/coco/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jan 2016 13:22:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 07 Jan 2016 13:30:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/coco/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[getting comfy]]></title>
+            <description><![CDATA[<article><h1>getting comfy</h1><p>nothing to see here! -_-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3443a73929db7f09f3eb1fd27f898224f3d75b6e.gif"></article>]]></description>
+            <link>https://thegrid.ai/coco/getting-comfy/index.html</link>
+            <guid isPermaLink="false">c9fe887f-caf6-4d15-8b2f-1d8bafee7ba3</guid>
+            <pubDate>Thu, 07 Jan 2016 13:30:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[little coco]]></title>
             <description><![CDATA[<article><h1>little coco</h1><p>christmas time with dad, back home in Templeton with my holiday hoodie :)</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5943ecedde5f0788cbd21b86fa26912736be5d4b.gif"></article>]]></description>
-            <link>undefinedlittle-coco/index.html</link>
+            <link>https://thegrid.ai/coco/little-coco/index.html</link>
             <guid isPermaLink="false">35f6cc9a-0834-44ea-8c53-92fc564de724</guid>
             <pubDate>Thu, 07 Jan 2016 13:21:59 GMT</pubDate>
         </item>
