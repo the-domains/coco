@@ -2,6 +2,7 @@ name: coco
 favicon: null
 layout_spectrum: 0.48103521578013897
 typography_spectrum: 0.0036137474235147238
+title: 'life by coco '
 cta:
   domain: null
   bucket: null
